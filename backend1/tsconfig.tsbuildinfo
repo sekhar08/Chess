@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"root":["./src/Game.ts","./src/GameManager.ts","./src/index.ts","./src/messages.ts"],"version":"5.7.3"}
+=======
+{"root":["./src/index.ts"],"version":"5.7.3"}
+>>>>>>> 21b32b43c9b1fe8c16bbdc6d84b1eef0649e5703
